@@ -1,6 +1,7 @@
 package ru.netology.rest;
 
 import io.restassured.http.ContentType;
+import io.restassured.specification.Argument;
 import org.hamcrest.Matchers;
 import org.junit.jupiter.api.Test;
 
