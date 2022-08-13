@@ -28,7 +28,6 @@
       },
       "currency": {
         "enum": ["RUB", "USD"]
-        //"pattern": "RUB|USD"
       }
     }
   }
